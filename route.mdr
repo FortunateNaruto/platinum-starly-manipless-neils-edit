@@ -211,16 +211,11 @@ Pick Turtwig
   :::::
 :::::::
 
-Nickname Turtwig any 1 character when Rowan asks in his Lab
-
-
 ## Sandgem Town
 
-:::card{theme=neutral}
 ### Shopping
-#### Buy:
-- 5 Potions (v)
-:::
+#### Buy
+> - 5 Potions (v)
 
 
 ## Route 202
@@ -313,21 +308,16 @@ Fight second optional (Absorb spam)
 
 
 ## Oreburgh City
-
-:::card{theme=neutral}
+ 
 ### Shopping
-Right vendor
-
-#### Sell:
-- Stardust
-- Stealth Rock
-
-#### Buy:
-- 3 Super Potions (vv)
-- 3 Antidotes (v)
-- 2 Awakenings (vv)
-- 11 Repels (Down 4)
-:::
+#### Sell (right)
+> - Stardust
+> - Stealth Rock
+#### Buy (right)
+> - 3 Super Potions (vv)
+> - 3 Antidotes (v)
+> - 2 Awakenings (vv)
+> - 11 Repels (Down 4)
 
 **Get Dusk Ball from girl on 2nd floor of the last building you pass while leaving Oreburgh**
 
@@ -360,7 +350,7 @@ After Ravaged Path, pass spinner and run in grass until you find a Starly (25% e
 :::card{theme=warning}
 - Do not take 0-13 IV -Speed nature, or 0-19 IV -Atk nature
 - If you're a beginner: do not take -Speed or -Attack at all
->-(Hardy, Bold, Modest, Calm, Timid, Brave, Relaxed, Quiet, Sassy, Serious)
+>-(Bold, Modest, Calm, Timid, Brave, Relaxed, Quiet, Sassy)
 - If you need a new bird: lead with the new Starly then weaken with Wing Attack and catch with Poke Ball
 :::
 
@@ -591,14 +581,13 @@ If you have no super potions, pick up the one behind the gym
 
 ## Eterna City
 
-:::card{theme=neutral}
 ### Shopping
 #### Buy:
-- 3 Potions (v) (Save these for Endeavor setup strats later)
-- 5 Super Potions (v)
-- 3 Paralyz Heal (vv)
-- 1 Burn Heal (vv)
-:::
+> - 3 Potions (v) (Save these for Endeavor setup strats later)
+> - 5 Super Potions (v)
+> - 3 Paralyz Heal (vv)
+> - 1 Burn Heal (vv)
+
 
 Enter path to Galactic Building from bottom row
 
@@ -655,7 +644,10 @@ Menu after cutting tree:
 - Register the bike
 - Repel
 
-Get Substitute (up stairs into center room, then in the furthest right room), then grab Rare Candy (left side after entering first floor center door in first room).
+Get Substitute (up stairs into center room, then in the furthest right room)
+
+Grab Rare Candy (left side after entering first floor center door in first room)
+
 Repel when it runs out
 
 Back to town, consider grabbing Oran berries for Endeavor setups, go south
@@ -965,17 +957,14 @@ Get this PP Up
 
 ![Hidden PP Up](pp-up-veilstone.png)
 
-:::::card{theme=neutral}
-### Shopping
-
-### 2nd floor top vendor, sell:
-- Star Piece
-- Calcium
-- Iron
-- PP Up
-- All TMs
-
-### Same vendor, buy:
+### Shopping 2nd floor top vendor
+> #### Sell
+> - Star Piece
+> - Calcium
+> - Iron
+> - PP Up
+> - All TMs
+> #### Buy
    - 10 X Speeds
   :::if{source="Starly" condition="atk=(x / 20+ / 0+)"}
    - 28 X Attacks (v) (when skipped Fist Plate)
@@ -986,14 +975,15 @@ Get this PP Up
    - 1 X Accuracy (Down 4)
    - 2 X Sp Defends (vv)
 
-### 1st floor right lady, buy:
-- 3 Full heals (Down all the way)
+### Shopping 1st floor right lady
+> #### Buy
+> - 3 Full heals (Down all the way)
 
-### 1st floor left lady, buy:
-- 3 Super Repel (Down 6)
+### Shopping 1st floor left lady
+> #### Buy
+> - 3 Super Repel (Down 6)
 
-**Make sure you have at least $13,456; sell non-essential items (honey) if you do not!**
-:::::
+**Make sure you have at least $13,456; sell non-essential items (honey, pokeballs) if you do not!**
 
 
 ## Veilstone Gym
@@ -1068,6 +1058,7 @@ Head off to Warehouse, talk to Lucas to trigger the double.
 Go in and get Fly
 
 Buy 1000 coins from Game Corner, get Silk Scarf next door
+>(Have to press down both times)
 
 Menu before entering Route 214:
 - Heal if in Aftermath range (<1/4 Max HP)
@@ -1092,7 +1083,7 @@ Menu before entering Route 214:
 
 **Pick up the Cheri Berry right of the Psychic (Far left tree) if you used the one from earlier**
 
-Take free hotel heal
+:info[Take free hotel heal]{color=yellow}
 
 ## Pastoria City
 
@@ -1179,7 +1170,7 @@ Menu:
 
 Activate Grunt, then follow him back to lake
 
-Hotel Heal
+:info[Take free hotel heal]{color=yellow}
 
 :::::::trainer[Galactic Grunt]
   :::::pokemon[Croagunk]
@@ -1286,9 +1277,6 @@ Menu:
 Head left to Route 218
 
 Surf immediately above the bridge and get the Rare Candy
-
-Surf all the way left, use bike to pass spinner
-
 
 ## Canalave City
 
@@ -1415,7 +1403,7 @@ Menu:
 
 Off to lake
 
-Take hotel heal
+:info[Take free hotel heal]{color=yellow}
 
 
 ## Lake Valor
@@ -1493,16 +1481,17 @@ Menu:
 
 
 ## Celestic Town
+1
+### Shopping (buy):
+> #### Sell
+> - 21 Hyper Potions (Down 5)
+> - 1-2 Revives if you have none (v)
+> - 11 Full Heals (Down 6)
+> - MAX Max Repel (Down 4)
 
-:::card{theme=neutral}
-### Shopping
-Go to top left house, talk to lady at counter
 
-#### Buy:
-- 21 Hyper Potions (Down 5)
-- 1-2 Revives if you have none (v)
-- 11 Full Heals (Down 6)
-- MAX Max Repel (Down 4)
+
+
 
 **If Porygon's Ability is Trace:**
 - Grab Choice Specs from guy with sunglasses (only from 4:00AM - 9:59AM)
@@ -1654,8 +1643,6 @@ Get Storage Key from the Grunt, into warehouse (SAY YES)
 
 Take warp panels on left, and go below to avoid Scientist after going downstairs
 
-Get the Galactic Key (the Grunt beside it has no vision)
-
 Go outside and enter main building from the middle door
 
 Have the spinner grunt walk up to you from above
@@ -1695,7 +1682,9 @@ Listen to Cyrus speech, then take panel straight away, and heal in bed from the 
   :::::
 :::::::
 
-If -Attack, go into right portal and grab the Protein<br>
+:::if{source="Starly" condition="atk=(#/x/x)"}
+Go into right portal and grab the Protein
+:::
 Enter left portal
 
 :::::::trainer[Galactic Leader Cyrus]
@@ -1722,7 +1711,7 @@ Enter left portal
 
 **Grab the Full Restore after taking the Portal (do not use unless noted or will lose otherwise)**
 
-**Heal if yellow HP**
+:info[Heal if yellow HP]{color=yellow}
 
 :::::::trainer[Commander Saturn]
   :::::if{source="Starly" condition="atk=(x / 16+ / 0+)" theme=neutral}
@@ -1749,8 +1738,7 @@ Enter left portal
   :::::
 :::::::
 
-Menu:
-- Fly back to Oreburgh
+Fly back to Oreburgh
 
 Head up into Mt Coronet
 
@@ -1763,8 +1751,6 @@ Menu at hiker spinner:
 
 ## Mt. Coronet
 
-Surf across and Rock Climb to the upstairs section of the cave<br>
-Strength the rock down and head across both bridges to the cave entrance above<br>
 Pass the crazy moving Grunt as soon as he moves to the wall on the left
 
 Menu:
@@ -1832,12 +1818,16 @@ Pickup Rare Candy just below here
   :::::
 :::::::
 
-:::::::trainer[Mars & Jupiter]
-  - Generally heal in yellow HP, focus on left side first, then right
+:::card{theme=info}
+  - Generally heal in yellow HP, 
+  - Focus on left side first, then right
   - Infernape can really screw with this fight, be ready to heal
   - If Staraptor dies, swap to weakest poke, Revive Staraptor
   - Return does about 20dmg less than Close Combat on Bronzors
   - Always take out Skuntank and Purugly as soon as they appear
+:::
+
+:::::::trainer[Mars & Jupiter]
   :::::pokemon[Munchlax]
     - Return
   :::::
@@ -1868,7 +1858,7 @@ Pickup Rare Candy just below here
   :::::
 :::::::
 
-**FREE HEAL**
+:info[**Free heal**]{color=pink}
 
 Say Yes to Cynthia and through distortion world
 
@@ -1914,7 +1904,7 @@ Run from Giratina
 
 Leave the Distortion World
 
-**FREE HEAL**
+:info[**Free heal**]{color=pink}
 
 Menu:
 - **If you did not fight Glameow Spinner outside of Pastoria**: Max repel
